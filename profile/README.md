@@ -1,6 +1,6 @@
 # 👋 Welcome to RestoreCord!
 
-**RestoreCord is now open source thanks to their incompetence! Read more [here](https://web.archive.org/web/20240302012553/https://docs.restorecord.com/introduction)**
+**RestoreCord is now open source thanks to their incompetence! Read more [here](https://archive.is/DhUUT)**
 
 ## Who are we?
 RestoreCord is the premier Discord recovery solution. Established in 2020, we've dedicated ourselves to delivering unparalleled services to Discord users across the globe. Our core mission is to assist in the recovery of Discord servers following incidents such as malicious attacks, unintentional deletions, or access issues, ensuring a smooth and dependable recovery process.
